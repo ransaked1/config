@@ -1,5 +1,5 @@
 export PS1="\\033[01;33m[\@] \u \\033[01;32m\w\\$\[\033[01;0m\] "
-export https_proxy='94.177.163.5:3128'
+export https_proxy='89.40.115.239:1453'
 
 alias ..="cd .."
 alias ...="cd ../.."
