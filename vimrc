@@ -5,6 +5,7 @@ syntax on
 set number
 set list
 set mouse=a
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
 set history=700
 
