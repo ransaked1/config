@@ -11,6 +11,7 @@ alias s="ls"
 
 alias vi="vim"
 alias vb="vim ~/.bashrc"
+alias vv="vim ~/.vimrc"
 alias rm="rm -rf"
 alias mount="mount | column -t"
 
