@@ -1,2 +1,2 @@
 # config
-my programming configuration
+My VIM Programming Config
