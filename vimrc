@@ -1,11 +1,9 @@
 set nocompatible
-set backspace=indent,eol,start
 
 syntax on
 set number
-set list
+set nolist
 set mouse=a
-set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
 set history=700
 
